@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "name": "Mabar Group",
+    "since": 1960,
+    "address": "1669 Woodside Circle, Panama City, Florida",
+    "employees": [
+      {
+        "name": "Denuj",
+        "ktp": 3748592745,
+        "joined_year": 2021,
+        "position": "Staff",
+        "salary": 13000000
+      },
+      {
+        "name": "Rina",
+        "ktp": 4563456787,
+        "joined_year": 2022,
+        "position": "Staff",
+        "salary": 12000000
+      },
+      {
+        "name": "Sakura",
+        "ktp": 9346783455,
+        "joined_year": 2017,
+        "position": "Manager",
+        "salary": 50000000
+      },
+      {
+        "name": "Tarjo",
+        "ktp": 123999345001,
+        "joined_year": 2023,
+        "position": "Staff",
+        "salary": 10000000
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Orange inc",
+    "since": 1975,
+    "address": "1109 Buena Vista Avenue, CARLSTADT, New Jersey",
+    "employees": [
+      {
+        "name": "Budi",
+        "ktp": 2453245454,
+        "joined_year": 2023,
+        "position": "Staff",
+        "salary": 9500000
+      },
+      {
+        "name": "Asep",
+        "ktp": 7895689033,
+        "joined_year": 2022,
+        "position": "Manager",
+        "salary": 20000000
+      }
+    ]
+  }
+]
